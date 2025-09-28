@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilkerozturk
 - 👀 I’m interested in interactive web technologies
-- 🌱 I’m currently learning html, css, javascript.
+- 🌱 I’m currently learning python3 , flusk and django libraries.
 - 💞️ I'm looking to collaborate on develop web projects.
 - 📫 You can reach me by email address "ilker.ozturkwm@gmail.com"
 

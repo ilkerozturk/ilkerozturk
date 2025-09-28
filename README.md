@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilkerozturk
 - 👀 I’m interested in interactive web technologies
-- 🌱 I’m currently learning python3 , flusk and django libraries.
+- 🌱 I’m currently working as full stack developer in my own company and  also learning python3 , flusk and django libraries to develop advanced web application on cloud systems.
 - 💞️ I'm looking to collaborate on develop web projects.
 - 📫 You can reach me by email address "ilker.ozturkwm@gmail.com"
 
